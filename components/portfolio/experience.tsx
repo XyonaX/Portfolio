@@ -16,8 +16,8 @@ const experiences = [
        `  - Implementación de flujos de autenticación y control de acceso por roles (locador/locatario), siguiendo lineamientos OWASP (manejo seguro de sesión, prevención de XSS, protección de datos sensibles).` ,
         ` - Desarrollo de formularios de publicación de vehículos con carga y validación de hasta 6 fotos reglamentarias, y carga de documentación obligatoria (cédula, seguro, VTV, entre otros).` ,
        `  - Implementación de funcionalidades de listado/filtrado de publicaciones, solicitud de alquiler ("Me interesa") y panel de notificaciones para aprobación/rechazo entre las partes.` ,
-       `  - Trabajo colaborativo mediante metodología Kanban + Scrum minificado, gestión de tareas en backlog de GitHub y registro de horas con Cybersinn Timesheets.`,
-    ]
+       `  - Trabajo colaborativo mediante metodología Kanban + Scrum minificado, gestión de tareas en backlog de GitHub y registro de horas con Cybersinn Timesheets.`
+    ],
     technologies: ["React", "NEXTJS", "Tailwindcss", "Zustand"],
     current: false
   },
