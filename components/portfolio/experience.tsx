@@ -12,11 +12,11 @@ const experiences = [
     period: "06/2026 – 10/2026",
     description: "Participo como desarrollador frontend en el equipo del proyecto Rent Car, una PWA mobile-first para publicación y alquiler de vehículos particulares y utilitarios, con foco en trazabilidad documental y prevención de riesgos legales entre locador y locatario.",
     achievements: [
-     `  - Desarrollo de interfaces en React siguiendo arquitectura mobile-first y buenas prácticas de PWA (manifest, service worker, experiencia offline básica).` ,
-       `  - Implementación de flujos de autenticación y control de acceso por roles (locador/locatario), siguiendo lineamientos OWASP (manejo seguro de sesión, prevención de XSS, protección de datos sensibles).` ,
-        ` - Desarrollo de formularios de publicación de vehículos con carga y validación de hasta 6 fotos reglamentarias, y carga de documentación obligatoria (cédula, seguro, VTV, entre otros).` ,
-       `  - Implementación de funcionalidades de listado/filtrado de publicaciones, solicitud de alquiler ("Me interesa") y panel de notificaciones para aprobación/rechazo entre las partes.` ,
-       `  - Trabajo colaborativo mediante metodología Kanban + Scrum minificado, gestión de tareas en backlog de GitHub y registro de horas con Cybersinn Timesheets.`
+      "Desarrollo de interfaces en React siguiendo arquitectura mobile-first y buenas prácticas de PWA (manifest, service worker, experiencia offline básica).",
+      "Implementación de flujos de autenticación y control de acceso por roles (locador/locatario), siguiendo lineamientos OWASP (manejo seguro de sesión, prevención de XSS, protección de datos sensibles).",
+      "Desarrollo de formularios de publicación de vehículos con carga y validación de hasta 6 fotos reglamentarias, y carga de documentación obligatoria (cédula, seguro, VTV, entre otros).",
+      "Implementación de funcionalidades de listado/filtrado de publicaciones, solicitud de alquiler (\"Me interesa\") y panel de notificaciones para aprobación/rechazo entre las partes.",
+      "Trabajo colaborativo mediante metodología Kanban + Scrum minificado, gestión de tareas en backlog de GitHub y registro de horas con Cybersinn Timesheets."
     ],
     technologies: ["React", "NEXTJS", "Tailwindcss", "Zustand"],
     current: false
