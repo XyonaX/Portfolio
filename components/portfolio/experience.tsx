@@ -6,16 +6,19 @@ import { Briefcase, Calendar, MapPin } from "lucide-react"
 
 const experiences = [
   {
-    title: "Desarrollador Fullstack",
-    company: "Proyecto IA para Preventistas",
-    location: "Corrientes, Argentina",
-    period: "07/2025 – 02/2026",
-    description: "Desarrollo de una solución virtual para agilizar el proceso de pedidos de preventistas, utilizando un chat con Inteligencia Artificial.",
+    title: "Desarrollador Frontend",
+    company: "Cybersinn Solutions",
+    location: "Remoto",
+    period: "06/2026 – 10/2026",
+    description: "Participo como desarrollador frontend en el equipo del proyecto Rent Car, una PWA mobile-first para publicación y alquiler de vehículos particulares y utilitarios, con foco en trazabilidad documental y prevención de riesgos legales entre locador y locatario.",
     achievements: [
-      "Automatización y optimización del proceso de venta, agilizando pedidos y evitando visitas físicas innecesarias",
-      "Implementación de un chat con IA (OpenAI) para recomendar productos basándose en historial de compras"
-    ],
-    technologies: ["Angular", ".NET", "SQL Server", "OpenAI"],
+     `  - Desarrollo de interfaces en React siguiendo arquitectura mobile-first y buenas prácticas de PWA (manifest, service worker, experiencia offline básica).` ,
+       `  - Implementación de flujos de autenticación y control de acceso por roles (locador/locatario), siguiendo lineamientos OWASP (manejo seguro de sesión, prevención de XSS, protección de datos sensibles).` ,
+        ` - Desarrollo de formularios de publicación de vehículos con carga y validación de hasta 6 fotos reglamentarias, y carga de documentación obligatoria (cédula, seguro, VTV, entre otros).` ,
+       `  - Implementación de funcionalidades de listado/filtrado de publicaciones, solicitud de alquiler ("Me interesa") y panel de notificaciones para aprobación/rechazo entre las partes.` ,
+       `  - Trabajo colaborativo mediante metodología Kanban + Scrum minificado, gestión de tareas en backlog de GitHub y registro de horas con Cybersinn Timesheets.`,
+    ]
+    technologies: ["React", "NEXTJS", "Tailwindcss", "Zustand"],
     current: false
   },
   {
